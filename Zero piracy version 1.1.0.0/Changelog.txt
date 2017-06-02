@@ -1,0 +1,53 @@
+# Change Log
+All notable changes to this project will be documented in this file.
+
+## [1.1.0.0] - 2017-06-1
+-This is the second release of this ZERO PIRACY program
+
+### Added
+-6 more new torrent site has been added
+-Language support english
+-Proper guide for this program with alert
+
+### Changed
+-Ui has been changed,more professional look given
+-guide text has been changed
+
+### Fixed
+-Firefox bug fixed.
+-Now you don't have to open firefox to run this program,this program
+now automically open firefox.
+-Some broken link has been fixed
+-Dupplicate link has been removed
+
+### Improvements
+-Code is now more clean and simple
+-Performance is much better than previous version
+-Code will execute faster than previous version
+
+
+### Issues
+-Low end computer or laptop will still suffer lag and delayed opening
+of browser
+-limetorrent may be down for some isp,nothing can be done here.
+-If you want to use limetorrent you have to use proxy or vpn of your choice
+
+
+
+### [1.0.0.0] - 2017-06-31
+
+## Features
+-added 21 torrent site 
+-lots of dead torrent link updated
+-performance issue fixed
+-language english
+-New encyption feature
+-Now exe file will ask for a password
+
+## Limitation
+-At this moment this program support only firefox browser
+-There is No way to know the torrent websites are up or not
+ 
+
+ 
+

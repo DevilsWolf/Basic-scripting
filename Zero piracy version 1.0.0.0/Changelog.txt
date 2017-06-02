@@ -1,0 +1,21 @@
+# Change Log
+All notable changes to this project will be documented in this file.
+
+## [1.0.0.0] - 2017-05-30
+-This is the first release of this ZERO PIRACY program
+
+## Features
+-added 21 torrent site 
+-lots of dead torrent link updated
+-performance issue fixed
+-language english
+-New encyption feature
+-Now exe file will ask for a password
+
+## Limitation
+-At this moment this program support only firefox browser
+-There is No way to know the torrent websites are up or not
+ 
+
+ 
+
